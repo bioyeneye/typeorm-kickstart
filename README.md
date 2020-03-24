@@ -1,4 +1,4 @@
-# Kickstarter for typeorm
+# Kick start for typeorm
 
 Steps to run this project:
 

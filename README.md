@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Kickstarter for typeorm
 
 Steps to run this project:
 
